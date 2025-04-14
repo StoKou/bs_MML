@@ -13,6 +13,7 @@
 - 其他：Node.js, npm, Python
 
 ## 项目结构
+``
 project-root/
 │
 ├── back/            # 后端代码
@@ -22,7 +23,7 @@ project-root/
 │   └── bs_front/    # 前端项目文件夹
 │
 └── README.md       # 项目说明文件
-
+``
 
 ## 运行流程
 
